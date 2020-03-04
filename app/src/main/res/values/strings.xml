@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScientificCalculator</string>
+    <string name="five_number">five</string>
+    <string name="zero_text">0</string>
+    <string name="x_2">x<sup>2</sup></string>
+    <string name="x_3">x<sup>3</sup></string>
+    <string name="x_y">x<sup>y</sup></string>
+    <string name="e_x">e<sup>x</sup></string>
+    <string name="ten_x">10<sup>x</sup></string>
+    <string name="log_10">log<sub>10</sub></string>
+</resources>
